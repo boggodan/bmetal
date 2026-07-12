@@ -1,34 +1,32 @@
 
 {
-  "chugs": {
-    "f3": [
-      "chugs/1.wav",
-      "chugs/2.wav",
-      "chugs/3.wav",
-      "chugs/4.wav",
-      "chugs/5.wav",
-      "chugs/6.wav"
-    ]
-  },
+  "chugs": [
+    "/chugs/1.wav",
+    "/chugs/2.wav",
+    "/chugs/3.wav",
+    "/chugs/4.wav",
+    "/chugs/5.wav",
+    "/chugs/6.wav"
+  ],
     "trem": [
-    "trem/1.wav",
-    "trem/2.wav",
-    "trem/3.wav",
-    "trem/4.wav",
-    "trem/5.wav",
-    "trem/6.wav",
-    "trem/7.wav"
+    "/trem/1.wav",
+    "/trem/2.wav",
+    "/trem/3.wav",
+    "/trem/4.wav",
+    "/trem/5.wav",
+    "/trem/6.wav",
+    "/trem/7.wav"
   ],
     "cronch": [
-    "cronch/1.wav",
-    "cronch/2.wav",
-    "cronch/3.wav",
-    "cronch/4.wav",
-    "cronch/5.wav",
-    "cronch/6.wav",
-    "cronch/7.wav",
-    "cronch/8.wav",
-    "cronch/9.wav",
-    "cronch/10.wav"
+    "/cronch/1.wav",
+    "/cronch/2.wav",
+    "/cronch/3.wav",
+    "/cronch/4.wav",
+    "/cronch/5.wav",
+    "/cronch/6.wav",
+    "/cronch/7.wav",
+    "/cronch/8.wav",
+    "/cronch/9.wav",
+    "/cronch/10.wav"
   ]
 }
